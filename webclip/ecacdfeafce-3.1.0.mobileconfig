@@ -20,11 +20,11 @@
 			<key>PayloadDisplayName</key>
 			<string>PakePayload</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.webClip.managed.E0736409-C08F-4F54-86DA-295C935E01EA</string>
+			<string>com.apple.webClip.managed.E0736409-C08F-4F54-86DA-060BC699FB35</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>E0736409-C08F-4F54-86DA-295C935E01EA</string>
+			<string>E0736409-C08F-4F54-86DA-060BC699FB35</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Precomposed</key>
@@ -36,13 +36,13 @@
 	<key>PayloadDisplayName</key>
 	<string>KZADJAI</string>
 	<key>PayloadIdentifier</key>
-	<string>com.pakeplus.ios.23014396-AA45-42E3-AB8D-295C935E01EA</string>
+	<string>com.pakeplus.ios.23014396-AA45-42E3-AB8D-060BC699FB35</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>6E3BF4EB-11D9-4F2E-8DE8-295C935E01EA</string>
+	<string>6E3BF4EB-11D9-4F2E-8DE8-060BC699FB35</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
